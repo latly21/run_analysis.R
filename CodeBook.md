@@ -4,7 +4,7 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
 
 ######Get the data
 
-1.Download the file into the data folder. These are the files that were used:
+1. Download the file into the data folder. These are the files that were used:
 
 * Test files:
    * x_test.txt
@@ -15,6 +15,8 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
 * Subject files:
    * subject_test.txt
    * subject_train.txt
+
+2. Read the data from the files into variables.
    
    
 
