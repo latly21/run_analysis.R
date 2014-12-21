@@ -21,6 +21,10 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
    * y_train_data
    * x_test_data
    * x_train_data
+   * subject_train
+   * subject_test
+
+######Merge testing and training files 
    
 
 
