@@ -25,6 +25,12 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
    * subject_test
 
 ######Merge testing and training files 
+
+######Get the mean and standard deviation
+
+######Name the activities in the data set
+
+
    
 
 
