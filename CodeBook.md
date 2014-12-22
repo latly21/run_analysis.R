@@ -5,16 +5,15 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
 ######Get the data
 
 1. Download the file into the data folder. These are the files that were used:
-
-* Test files:
-   * x_test.txt
-   * y_test.txt
-* Train files:
-   * x_train.txt
-   * y_train.txt
-* Subject files:
-   * subject_test.txt
-   * subject_train.txt
+  * Test files:
+     * x_test.txt
+     * y_test.txt
+  * Train files:
+     * x_train.txt
+     * y_train.txt
+  * Subject files:
+     * subject_test.txt
+     * subject_train.txt
 
 2. Read the data from the files into variables.
    * y_test_data
@@ -25,6 +24,11 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
    * subject_test
 
 ######Merge testing and training files 
+3. rbind the files based on the file type. For example, y_test.txt is merged with x_test.txt
+  * Variables:
+     * subject
+     * activity
+     * features
 
 ######Get the mean and standard deviation
 
