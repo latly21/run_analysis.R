@@ -34,7 +34,9 @@ The run_analysis.R script downloads a zip file and manipulates the data. The scr
 
 ######Name the activities in the data set
 
+######Clean up data set labels
 
+######Create tidy data set
    
 
 
